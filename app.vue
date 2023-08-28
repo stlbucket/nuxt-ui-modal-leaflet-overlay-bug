@@ -30,9 +30,6 @@
           v-model="isOpen"
         >
           <UCard>
-            <template #header>
-              This is a header
-            </template>
             This is the content area where stuff gets chopped under leaflet.
           </UCard>
         </UModal>
