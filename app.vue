@@ -1,7 +1,7 @@
 <template>
   <div class="text-3xl h-screen flex flex-col">
     <div class="flex">
-      Tacos
+      Page Header
     </div>
     <div class="text-3xl h-screen flex justify-around">
       <div class="flex bg-blue-400 grow">
